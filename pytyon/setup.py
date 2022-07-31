@@ -1,12 +1,12 @@
 import setuptools
 from datetime import datetime
 
-with open("readme.md", "r", encoding="utf-8") as fh:
-    long_description = fh.read()
+long_description = """ # DiscountPackage
+"""
 
 setuptools.setup(
     name="DiscountPackage",
-    version="1.0.0",
+    version="1.0.1",
     author="Eric Lian",
     author_email="public@superexercisebook.com",
     description=long_description,
@@ -22,7 +22,7 @@ setuptools.setup(
     ],
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src"),
-    python_requires=">=3.6",
+    python_requires=">=2.7",
 )
 
 if datetime.now().weekday() == 3:
