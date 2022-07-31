@@ -1,0 +1,12 @@
+{
+  "name": "discount-package-js",
+  "version": "1.0.0",
+  "description": "Nodejs implementation of DiscountPackage",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "node index.js"
+  },
+  "keywords": [],
+  "author": "Yuyuko",
+  "license": ""
+}
