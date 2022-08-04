@@ -21,7 +21,7 @@ python -m pip install DiscountPackage
 ### Node.js
 
 ```bash
-npm install discount-pckage-js
+npm i discount-package-js
 ```
 
 ### Usage
