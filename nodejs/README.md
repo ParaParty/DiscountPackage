@@ -1,3 +1,11 @@
-# discount-package
+# discount-package-js
 
-## Nodejs implementation of [DiscountPackage](https://github.com/ParaParty/DiscountPackage/)
+## Description
+
+Nodejs implementation of [DiscountPackage](https://github.com/ParaParty/DiscountPackage/)
+
+## Installation
+
+```bash
+npm i discount-package-js
+```
