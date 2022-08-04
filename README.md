@@ -1,5 +1,9 @@
 # DiscountPackage
 
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/discount-package-js)
+[![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/DiscountPackage/)
+[![KFC](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)]()
+
 ## Description
 
 The DiscountPackage is an open-source package that provides a service for users to create and manage their own
